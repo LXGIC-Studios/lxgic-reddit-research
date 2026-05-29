@@ -1,36 +1,81 @@
 {
-  "name": "lxgic-reddit-research",
-  "version": "1.0.0",
-  "description": "Research any topic across Reddit, HN, and the web from the last 30 days - by LXGIC Studios",
-  "main": "dist/index.js",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "lxgic-reddit-research": "dist/cli.js"
   },
-  "scripts": {
-    "build": "tsc"
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/lxgic-reddit-research/issues"
   },
-  "keywords": [
-    "ai",
-    "research",
-    "trending",
-    "reddit",
-    "hackernews",
-    "cli",
-    "npx"
-  ],
-  "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
+  "description": "Research any topic across Reddit, HN, and the web from the last 30 days - by LXGIC Studios",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
   },
-  "author": "LXGIC Studios",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/LXGIC-Studios/lxgic-reddit-research#readme",
+  "keywords": [
+    "ai",
+    "ai-optimized",
+    "ai-powered",
+    "analytics",
+    "automation",
+    "best-practices",
+    "cli",
+    "code-quality",
+    "content-research",
+    "developer-productivity",
+    "developer-tools",
+    "efficiency",
+    "javascript",
+    "nodejs",
+    "optimization",
+    "performance",
+    "productivity",
+    "seo",
+    "seo-audit",
+    "dev-automation",
+    "agentic-automation",
+    "toolkit",
+    "typescript",
+    "utility",
+    "web-optimization",
+    "web-vitals",
+    "2026-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/lxgic-reddit-research",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/lxgic-reddit-research"
-  }
+    "url": "git+https://github.com/LXGIC-Studios/lxgic-reddit-research.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
