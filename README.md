@@ -1,6 +1,20 @@
 # Lxgic Reddit Research
 
-Research any topic across Reddit, Hacker News, and the web from the last 30 days. Get synthesized trends, community sentiment, and actionable insights.
+Research any topic across Reddit, Hacker News, and the web from the last 30 days. Get synthesized trends, community sentiment, and actionable insights. Works with Claude, Cursor, GPT, Copilot.
+
+[![npm version](https://img.shields.io/npm/v/@lxgicstudios/lxgic-reddit-research.svg)](https://npmjs.com/package/@lxgicstudios/lxgic-reddit-research)
+[![npm downloads](https://img.shields.io/npm/dm/@lxgicstudios/lxgic-reddit-research.svg)](https://npmjs.com/package/@lxgicstudios/lxgic-reddit-research)
+[![License: MIT](https://img.shields.io/npm/l/@lxgicstudios/lxgic-reddit-research.svg)](LICENSE)
+
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |
 
 ## Usage
 
@@ -36,15 +50,6 @@ export OPENAI_API_KEY=your-key-here
 
 MIT
 
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/lxgicstudios
-
 ---
 
 ## 🔗 Related Tools
@@ -77,7 +82,7 @@ Learn more about modern SEO practices for developer tools:
 
 ## 📄 License
 
-MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+MIT © 2026 LXGIC Studios. Built with ⚡ and AI.
 
 ## 🤝 Contributing
 
@@ -98,30 +103,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
     </a>
   </p>
 </div>
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
 
 ---
 
