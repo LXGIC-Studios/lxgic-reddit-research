@@ -44,10 +44,7 @@
     "cursor",
     "copilot",
     "agent",
-    "cli",
-    "devtools",
-    "research",
-    "reddit"
+    "cli"
   ],
   "license": "MIT",
   "main": "dist/index.js",
