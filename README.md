@@ -106,6 +106,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ---
 
-Built by LXGIC Studios
-🔗 GitHub · Twitter
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
+Built by LXGIC Studios  
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
