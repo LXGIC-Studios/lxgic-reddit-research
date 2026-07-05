@@ -8,7 +8,7 @@
     "lxgic-reddit-research": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/lxgic-reddit-research/issues"
+    "url": "https://github.com/lxgicstudios/lxgic-reddit-research/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,32 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/lxgic-reddit-research#readme",
+  "homepage": "https://github.com/lxgicstudios/lxgic-reddit-research#readme",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "ai-powered",
-    "lxgic",
-    "ai",
-    "automation",
-    "claude",
-    "gpt",
-    "cursor",
-    "copilot",
-    "agent",
-    "cli",
-    "technical-seo",
-    "site-architecture",
-    "seo-audit",
-    "page-speed",
-    "ai-search-optimization",
-    "generative-engine-optimization",
-    "geo",
-    "june-2026-core-update",
-    "faq-rich-results-removed",
-    "ai-overview-citation",
-    "structured-data-seo",
-    "llms-txt-seo"
+    "reddit",
+    "social-research",
+    "content-analysis",
+    "trend-discovery",
+    "community-insights"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -67,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/lxgic-reddit-research.git"
+    "url": "git+https://github.com/lxgicstudios/lxgic-reddit-research.git",
+    "directory": "lxgic-reddit-research"
   },
   "scripts": {
     "build": "tsc"
