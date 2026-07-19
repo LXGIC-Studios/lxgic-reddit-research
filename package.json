@@ -8,7 +8,7 @@
     "lxgic-reddit-research": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/lxgic-reddit-research/issues"
+    "url": "https://github.com/LXGIC-Studios/lxgic-reddit-research/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/lxgic-reddit-research#readme",
+  "homepage": "https://github.com/LXGIC-Studios/lxgic-reddit-research",
   "keywords": [
     "ai",
     "anthropic",
@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/lxgic-reddit-research.git"
+    "url": "git+https://github.com/LXGIC-Studios/lxgic-reddit-research.git"
   },
   "scripts": {
     "build": "tsc"
