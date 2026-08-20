@@ -47,9 +47,7 @@
     "devtools",
     "gpt",
     "hacker-news",
-    "nodejs",
-    "typescript",
-    "javascript"
+    "typescript"
   ],
   "license": "MIT",
   "main": "dist/index.js",
